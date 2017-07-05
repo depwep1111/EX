@@ -7,7 +7,7 @@
 //
 
 import UIKit
-var eventLines = EventLine.eventLines();//
+var eventLines = EventLine.eventLines();////
 class TableViewControllerEvent: UITableViewController {
 
     override func viewDidLoad() {
