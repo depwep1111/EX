@@ -10,7 +10,7 @@ import Foundation
 class EventLine
 {
     var group: String // nhom uu tien
-    var events: [Event]
+    var events: [Event]//
     init(groupName: String, includeEvents: [Event])
     {
         group = groupName

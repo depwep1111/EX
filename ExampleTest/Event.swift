@@ -9,7 +9,7 @@
 import Foundation
 class Event
 {
-    var title: String
+    var title: String//
     
     init(titled: String)
     {
